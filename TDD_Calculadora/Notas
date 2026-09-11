@@ -1,0 +1,15 @@
+Test? Solo con main
+
+FIRST- Fast Independent Repeteable Self-validating Timely
+
+Deben ser cortos y comprobar que el codigo es bueno y cumple con las necesidades
+
+Paso 1 -> Test que de ROJO
+Paso 2 -> Minimo codigo para que de VERDE
+Paso 3 -> Estando en VERDE me permito "pases de magia"
+
+Requerimientos: un cliente que compra por $100 obtiene 10% de descuento
+Clases: Cliente, Calculadora, Producto, Bar, Venta
+
+Cliente Marcelo tiene 15% de descuento, siempre sera el mismo descuento sin importar el monto
+Cliente Estefania no tiene descuento, se le aplica la regla del 0%, 10% o 20% segun el monto

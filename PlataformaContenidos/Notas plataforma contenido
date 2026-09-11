@@ -1,0 +1,31 @@
+Notas.-
+
+Herencia temprana ---> rigidez
+Herencia tardía ---> complejidad y muchos cambios
+
+	SUT: Película
+
+	POJO: Atributos y comportamientos (sir reglas de negocios)
+
+		título
+		costo base(puede variar en cualquier momento)
+		
+		
+		setTitulo()
+		getTitulo()
+		setCostoBase()
+		getCostoBase()
+		
+	SUT: Documental
+	
+	-----
+	
+	Contenido? no se requiere instanciación
+	Abstract? Herencia - Taxonomía
+	
+	Arriba ---> Abajo (Contenido - Película) -> Concreta
+	Empleado -> Gerente
+	
+	Abajo ---> Arriba (Película - Contenido) -> Abstract
+	
+	Auto, bicicleta y camión -> Transporte (abstracción)

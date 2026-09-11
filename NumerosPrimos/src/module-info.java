@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module NumerosPrimos {
+	requires junit;
+}
